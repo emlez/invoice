@@ -1,4 +1,4 @@
-module github.com/maaslalani/invoice
+module github.com/emlez/invoice
 
 go 1.20
 
